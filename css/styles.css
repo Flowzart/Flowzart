@@ -42,3 +42,8 @@ header h2 {
     border-top: none;
     padding: 10px;
 }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
